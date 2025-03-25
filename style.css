@@ -25,3 +25,9 @@ body{
     width: 100%;
     font-size: 32px;
 }
+.botao{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: var(--botao-inativo);
+    color:(var(--branco))
+    
+}
